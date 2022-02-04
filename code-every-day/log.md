@@ -15,6 +15,17 @@
 [Codewars Kata 3](https://www.codewars.com/kata/56747fd5cb988479af000028)
 
 [Codewars Kata 4](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+
+### Day 1: February 3, 2022
+
+**Today's Progress**: Feeling strong. Spent the previous day learning how to navigate and manipulate tables in an SQL database with a fun Carmen Sandiego themed exercise! This morning we've learning stacks and queues as data structures, followed by Python. Got a few Katas in and worked on my portfolio a bit! 
+
+**Link(s) to work**:
+
+[Codewars Kata 1](https://www.codewars.com/kata/54edbc7200b811e956000556)
+[Codewars Kata 2](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
+[Codewars Kata 3](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
+[Codewars Kata 4](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
