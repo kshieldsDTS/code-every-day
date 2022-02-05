@@ -33,6 +33,10 @@
 [Codewars Kata 1](https://www.codewars.com/kata/523b4ff7adca849afe000035)
 [Codewars Kata 2](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 [Codewars Kata 3](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+
+### Day 3: February 5, 2022
+
+**Today's Progress** Started the morning with some homework with Michel from class. Then worked a little bit on the portfolio. It's Saturday, I'm not going ham here!
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
