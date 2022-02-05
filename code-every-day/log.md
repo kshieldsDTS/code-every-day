@@ -9,11 +9,8 @@
 **Link(s) to work**: 
 
 [Codewars Kata 1](https://www.codewars.com/kata/55a70521798b14d4750000a4)
-
 [Codewars Kata 2](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
-
 [Codewars Kata 3](https://www.codewars.com/kata/56747fd5cb988479af000028)
-
 [Codewars Kata 4](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
 
 ### Day 1: February 3, 2022
@@ -26,6 +23,16 @@
 [Codewars Kata 2](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
 [Codewars Kata 3](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
 [Codewars Kata 4](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+
+### Day 2: February 4, 2022
+
+**Today's Progress**: Did some more Python reps in class today. Working on that almighty OOP. Did a few Katas in Python today too.
+
+**Link(s) to work**:
+
+[Codewars Kata 1](https://www.codewars.com/kata/523b4ff7adca849afe000035)
+[Codewars Kata 2](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+[Codewars Kata 3](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
