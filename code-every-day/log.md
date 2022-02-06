@@ -36,7 +36,11 @@
 
 ### Day 3: February 5, 2022
 
-**Today's Progress** Started the morning with some homework with Michel from class. Then worked a little bit on the portfolio. It's Saturday, I'm not going ham here!
+**Today's Progress** Started the morning with some homework with Michel from class. Then worked a little bit on the portfolio. It's Saturday, I'm not going ham here! Still put some Python Katas in, at least!
+
+**Link(s) to work**:
+[Codewars Kata 1](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+[Codewars Kata 2](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
