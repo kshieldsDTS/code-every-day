@@ -4,7 +4,7 @@
 
 **Today's Progress**: Made committment to 100 days of coding.
 
-**Thoughts**: I'm a firm believer that reps are the best way to learn how to do anything better, whether its bench pressing or coding. I hope to come out of this challenge as a better coder! Today I'll be learning SQL in class and doing a few Codewars Katas to make sure I've got the fundamentals down.
+**Thoughts**: I'm a firm believer that reps are the best way to learn how to do anything better, whether its swimming or coding. I hope to come out of this challenge as a better coder! Today I'll be learning SQL in class and doing a few Codewars Katas to make sure I've got the fundamentals down.
 
 **Link(s) to work**: 
 
@@ -41,6 +41,19 @@
 **Link(s) to work**:
 [Codewars Kata 1](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 [Codewars Kata 2](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+
+### Day 4: February 6, 2022
+
+**Today's Progress**: Still taking it easy for the weekend, or so I thought. Decided to work on a neat little opening icon for my portfolio. That took a few hours! Didn't hit any katas today!
+
+### Day 5: February 7, 2022
+
+**Today's Progress**: More class today! Learning Django is exciting! Knocked out a few Python Katas early, and will put in some work to the portfolio again!
+
+**Link(s) to work**:
+[Codewars Kata 1](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+[Codewars Kata 2](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
+[Codewars Kata 3](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
