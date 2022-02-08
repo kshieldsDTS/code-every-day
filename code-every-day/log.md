@@ -48,7 +48,7 @@
 
 ### Day 5: February 7, 2022
 
-**Today's Progress**: More class today! Learning Django is exciting! Knocked out a few Python Katas early, and will put in some work to the portfolio again!
+**Today's Progress**: More class today! Learning Django is exciting, but definitely seems a bit more in-depth to set up! Knocked out a few Python Katas early before class. Also put in some work on the portfolio, seems I've finally completed some of the animations that have been bugging me for the last few days!
 
 **Link(s) to work**:
 [Codewars Kata 1](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
