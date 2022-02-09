@@ -54,6 +54,15 @@
 [Codewars Kata 1](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 [Codewars Kata 2](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 [Codewars Kata 3](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
+
+### Day 6: February 8, 2022
+
+**Today's Progress**: Made major headway on the portfolio today. Got all of the CSS and animations working. Now all I need to do is build out the back end and the projects page! Did a few Python Katas in class today. Also in class we built out another database using the Django REST Framework. The extra reps on Django are really helping, I'm feeling it come to me better. I still need my cheat sheets though!
+
+**Link(s) to work**:
+[Codewars Kata 1](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
+[Codewars Kata 2](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
+[Codewars Kata 3](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)Technically a repeat, but in Python!
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
