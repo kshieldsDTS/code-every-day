@@ -63,6 +63,10 @@
 [Codewars Kata 1](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
 [Codewars Kata 2](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 [Codewars Kata 3](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)Technically a repeat, but in Python!
+
+### Day 7: February 9, 2022
+
+**Today's Progress**: Did more reps for Django and Postgres in class today. Didn't have time to do any katas, but I put a lot more work into my portfolio. It's basically done, but needs a little functionality here and there.
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
