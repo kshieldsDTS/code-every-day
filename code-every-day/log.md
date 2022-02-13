@@ -81,7 +81,21 @@
 **Today's Progress**: Did an optional workshop with Esin this morning, while scrambling to come up with an idea for the final project for the class. Looks like I'll do a job board for indie game developers and designers. I'm calling it inDesign (get it?).
 
 **Link(s) to work**:
-[inDesign Github Repo](https://github.com/kshieldsDTS/inDesign)
+[inDesign Front End Github Repo](https://github.com/kshieldsDTS/inDesign)
+
+## Day 10: February 12, 2022
+
+**Today's Progress**: Not a very exciting day for progress. Built out the backend for my final project using Django and Postgres. Managed to get everything deployed to Heroku without issue. Also, turns out inDesign is a program from Adobe, so changing it to inDecoders to avoid legal issues!
+
+**Link(s) to work**:
+[inDecoders Back End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-back)
+
+## Day 11: February 13, 2022
+
+**Today's Progress**: Turns out there was an issue with my back end, I couldn't return a list of users, which would be handy for a job marketboard app. Stressed on it for a bit until I realized the Django REST Framework was taking up the users route. Just had to make a new 'getusers' route and it's all good! Whew. Now I'm gonna watch people play football. Hope they get some homeruns!
+
+**Link(s) to work**:
+[inDecoders Back End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-back)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
