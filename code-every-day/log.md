@@ -96,6 +96,13 @@
 
 **Link(s) to work**:
 [inDecoders Back End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-back)
+
+## Day 12: February 14, 2022
+
+**Today's Progress**: Spent most of the day hooking the front end of my project to my back end. Had to watch a recording of Friday's lecture to make sure I was getting user authentication right. So far so good.
+
+**Link(s) to work**:
+[inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
