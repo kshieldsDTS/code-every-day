@@ -103,6 +103,13 @@
 
 **Link(s) to work**:
 [inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
+
+## Day 13: February 15, 2022
+
+**Today's Progress**: Did more work on the final project front end. Getting all the little pieces connected and working has been quite the challenge, but I think we're good to go. Had a little scare where the database quit responding to any of my requests. Tried to fix it nicely at first, but turned out dropping the database and reuploading it was the simplest solution.
+
+**Link(s) to work**: 
+[inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
