@@ -110,6 +110,20 @@
 
 **Link(s) to work**: 
 [inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
+
+## Day 14: February 16, 2022
+
+**Today's Progress**: Finished up the majority of my final project. CSS is always my least favorite, but I finally found a good theme to use.
+
+**Link(s) to work**: 
+[inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
+
+## Day 15: February 17, 2022
+
+**Today's Progress**: Added media queries to my project to make it more responsive for desktop. Also did some difficult coding questions for a interviews. Rough stuff!
+
+**Link(s) to work**: 
+[inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
