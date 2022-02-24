@@ -124,6 +124,38 @@
 
 **Link(s) to work**: 
 [inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
+
+## Day 16: February 18, 2022
+
+**Today's Progress**: Put some final touches on my final project before presenting it to the class.
+
+**Link(s) to work**:
+[inDecoders Front End GitHub Repo](https://github.com/kshieldsDTS/inDecoders-front)
+
+## Day 17: February 19, 2022
+
+**Today's Progress**: Took a little break from the hardcore coding and worked a little bit on coding questions for an apprenticeship at Twitch. 
+
+## Day 18: February 20, 2022
+
+**Today's Progress**: A small a few edits to my project 2 to make it slightly more functional on mobile devices.
+
+## Day 19: February 21, 2022
+
+**Today's Progress**: More coding questions for Grant Street Group on an application. These things are getting tough.
+
+## Day 20: February 22, 2022
+
+**Today's Progress**: Coding questions for CAE's application.
+
+## Day 21: February 23, 2022
+
+**Today's Progress**: Put a little work into an old project to spruce it up a bit.
+
+## Day 22: February 24, 2022
+
+**Today's Progress**: Made some very minor tweaks to the portfolio page. Made it a little bit nicer for desktop users.
+
 <!-- ### Day X: <Date>
 
 **Today's Progress**: 
